@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>h5. *Your file should begin downloading [autodownload file="//FILE" delay="5" show_text="true"]*
+
+If it doesn't start, "click here"://FILE to download the file manually.</string>
+	<key>name</key>
+	<string>autodownload</string>
+	<key>tabTrigger</key>
+	<string>autodownload</string>
+	<key>uuid</key>
+	<string>F7D2BDFE-0D0D-454E-95DD-728A6C1A966E</string>
+</dict>
+</plist>

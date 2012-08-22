@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Ignite</string>
+	<key>ordering</key>
+	<array>
+		<string>A1065710-2F28-4603-BCFB-120BA51A9A3C</string>
+		<string>1FC235B5-113F-4E7B-9FFE-C8BF5892FD52</string>
+		<string>AD4CF0FC-97DE-4A0B-A26F-53D91B2B4F8C</string>
+		<string>5CC85726-7CA5-4C7E-8FDB-437E264430AD</string>
+		<string>7C66D354-9364-43BB-9702-88BAC06B36B8</string>
+		<string>5F163D20-45E5-4FE5-947C-0BDACD688A23</string>
+		<string>88272398-E2A0-4250-8247-F5ABAEAF0B74</string>
+		<string>C43A1499-92AC-4811-A9E2-9B3CEDD2963C</string>
+		<string>136C4332-EBB2-45A7-8D68-E2311318CAE4</string>
+		<string>AE9156A3-43C7-4FDD-BDBE-3CEFC455D018</string>
+		<string>E0B07ACA-52F9-4783-BA43-45A84EE8ECC3</string>
+		<string>35BCEDB1-324F-4D37-8371-119C47B78DA7</string>
+		<string>7169C36B-155E-4989-BD3C-9C7030E194FC</string>
+		<string>650BFD0E-F5A1-46E2-8409-EA9C45499A54</string>
+		<string>FE4AD237-13AE-41EF-B1DE-9CC8FF59C969</string>
+		<string>99E044F0-00ED-4F69-A56E-9D8A1F56530A</string>
+		<string>348E73D1-523D-493F-A733-990F81C1080E</string>
+		<string>4EAAF641-01CD-4D2C-AB8F-7E68BC61357E</string>
+		<string>4F342A8C-9E4F-41C6-A442-6625103791C6</string>
+		<string>56559879-B8F9-4077-ACAB-9A53DBC2C6F0</string>
+		<string>FB7EE5E3-8F0F-4595-AEF3-895CDA3FF47E</string>
+		<string>E2749D9C-6EC3-45E1-89AC-BC066BB9CD2B</string>
+		<string>62CCE32D-7E7E-4B64-898D-AA8053877CAA</string>
+		<string>59260390-23AD-428E-94A5-C1C88E05163F</string>
+		<string>588C7590-3567-4B2F-8E8F-2474C15499C3</string>
+		<string>AFB5028E-1E55-4381-851F-2A118DE62BAE</string>
+	</array>
+	<key>uuid</key>
+	<string>27F28AF7-74A1-483B-9FED-46AC34E85AE3</string>
+</dict>
+</plist>

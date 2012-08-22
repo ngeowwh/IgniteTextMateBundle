@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>[title value=""]
+[description value=""]
+[prefetch url="/"]
+[canonical url="/"]
+[hide value="header, helpbar, headernav, directory, footer, footernav"]</string>
+	<key>name</key>
+	<string>meta</string>
+	<key>tabTrigger</key>
+	<string>meta</string>
+	<key>uuid</key>
+	<string>A1065710-2F28-4603-BCFB-120BA51A9A3C</string>
+</dict>
+</plist>
